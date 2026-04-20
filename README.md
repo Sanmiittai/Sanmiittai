@@ -18,7 +18,7 @@
 ### Engenharia de Dados
 <div>
   <img height="64" src="https://cdn.simpleicons.org/python" />
-  <img height="64" src="https://cdn.simpleicons.org/mysql" />  
+  <img height="64" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />  
 </div>
 
 ##  Estatísticas
