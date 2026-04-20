@@ -9,14 +9,19 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### Desenvolvimento de Jogos
 <div>
   <img height="64" src="https://cdn.simpleicons.org/unity/black/white" />
   <img height="64" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" />
+</div>
+
+### Engenharia de Dados
+<div>
   <img height="64" src="https://cdn.simpleicons.org/python" />
   <img height="64" src="https://cdn.simpleicons.org/mysql" />  
 </div>
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="left">
   <img height="200em" src="https://github-readme-stats-three-sigma-70.vercel.app/api?username=sanmiittai&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
