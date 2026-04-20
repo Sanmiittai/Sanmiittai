@@ -1,6 +1,6 @@
 # Olá, me chamo Giovani Trindade!
 
-🎮 Desenvolvedor Unity atuando como desenvolvedor líder na OutZoom.
+🎮 Desenvolvedor Unity atuando como desenvolvedor líder na <a href="https://store.steampowered.com/curator/46020219" target="_blank"> OutZoom</a>.
 
 🎓 Atualmente cursando ADS e estudando engenharia de dados.
 
