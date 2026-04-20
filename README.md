@@ -13,7 +13,7 @@
   <img height="64" src="https://cdn.simpleicons.org/unity/black/white" />
   <img height="64" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" />
   <img height="64" src="https://cdn.simpleicons.org/python" />
-  
+  <img height="64" src="https://cdn.simpleicons.org/mysql" />  
 </div>
 
 ## 📊 Estatísticas
