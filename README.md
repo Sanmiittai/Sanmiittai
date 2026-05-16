@@ -22,6 +22,15 @@
   <img height="64" src="https://cdn.simpleicons.org/apachespark" />
 </div>
 
+##  Certificações
+<p align="left">
+  <a href="https://www.credly.com/badges/a7dbabea-7865-4d68-bc3e-ca08b2c5dbf8/public_url" target="_blank">
+    <img height="128" src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png">
+  </a>
+  
+</p>
+[![Badge Name](https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/badges/a7dbabea-7865-4d68-bc3e-ca08b2c5dbf8/public_url)
+
 ##  Estatísticas
 
 <p align="left">
