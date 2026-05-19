@@ -20,6 +20,7 @@
   <img height="64" src="https://cdn.simpleicons.org/python" title="Python" />
   <img height="64" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" title="SQL Server" />  
   <img height="64" src="https://cdn.simpleicons.org/apachespark" title="Spark" />
+  <img height="64" src="https://cdn.simpleicons.org/docker" title="Docker" />
 </div>
 
 ##  Certificações
