@@ -11,15 +11,15 @@
 
 ### Desenvolvimento de Jogos
 <div>
-  <img height="64" src="https://cdn.simpleicons.org/unity/black/white" />
-  <img height="64" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" />
+  <img height="64" src="https://cdn.simpleicons.org/unity/black/white" title="Unity" />
+  <img height="64" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" title="C Sharp" />
 </div>
 
 ### Engenharia de Dados
 <div>
-  <img height="64" src="https://cdn.simpleicons.org/python" />
-  <img height="64" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />  
-  <img height="64" src="https://cdn.simpleicons.org/apachespark" />
+  <img height="64" src="https://cdn.simpleicons.org/python" title="Python" />
+  <img height="64" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" title="SQL Server" />  
+  <img height="64" src="https://cdn.simpleicons.org/apachespark" title="Spark" />
 </div>
 
 ##  Certificações
